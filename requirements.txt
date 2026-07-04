@@ -6,3 +6,8 @@ matplotlib
 seaborn
 joblib
 mlflow
+pandas
+numpy
+openpyxl
+matplotlib
+scikit-learn
