@@ -20,3 +20,24 @@ services:
       - api
     volumes:
       - .:/app
+      __pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+mlruns/
+*.db
+
+*.pkl
+*.joblib
+
+.ipynb_checkpoints/
+
+.docker/
+
+.vscode/
+
+.idea/
+
+.DS_Store
